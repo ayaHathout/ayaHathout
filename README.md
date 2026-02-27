@@ -13,7 +13,3 @@ Building secure, scalable backend systems using Java and modern Spring technolog
 💼 **LinkedIn** → [Aya Hathout](https://www.linkedin.com/in/aya-hathout/) 
 
 📫 **Email** → ayahathout1@gmail.com
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=ayaHathout&color=blue)

@@ -1,7 +1,7 @@
-<p align="center">
+<div align="center">
   <h1>Hi, I'm Aya Hathout 👋</h1>
-  <strong>Java Backend Engineer | Spring Boot | Microservices</strong>
-</p>
+  <p><strong>Java Backend Engineer | Spring Boot | Microservices</strong></p>
+</div>
 
 Building secure, scalable backend systems using Java and modern Spring technologies. Focused on backend architecture, security, and distributed systems.
 

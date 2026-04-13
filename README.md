@@ -8,7 +8,7 @@ Building secure, scalable backend systems using Java and modern Spring technolog
 
 ---
 
-📄 **Resume** → [View PDF](https://drive.google.com/file/d/1sP8yRHFHnqx6WRomlaIGovtD3hP9bl9M/view?usp=drive_link) 
+📄 **Resume** → [View PDF](https://drive.google.com/file/d/11kqjQyk9yMetomV8xUQBRLvwWrc4To-A/view?usp=sharing) 
 
 💼 **LinkedIn** → [Aya Hathout](https://www.linkedin.com/in/aya-hathout/) 
 
